@@ -8,7 +8,7 @@
 <h1 align="center">🖥️ Terminal Skills</h1>
 
 <p align="center">
-  <strong>面向终端、服务器、DevOps 和云运维场景的 Claude Skills 集合</strong>
+  <strong>面向终端、服务器、Kubernetes、DevOps 和云计算场景的 Claude Skills 集合</strong>
 </p>
 
 <p align="center">
@@ -207,12 +207,12 @@ tags: [tag1, tag2, tag3]
 
 | 技能 | 描述 |
 |------|------|
-| [rsync](./backup-recovery/rsync) | rsync 文件同步 |
-| [tar-compression](./backup-recovery/tar-compression) | 归档和压缩 |
-| [snapshot](./backup-recovery/snapshot) | 文件系统快照 |
-| [cloud-backup](./backup-recovery/cloud-backup) | 云备份策略 |
-| [backup-strategy](./backup-recovery/backup-strategy) | 备份规划和策略 |
-| [disaster-recovery](./backup-recovery/disaster-recovery) | 灾难恢复规划和执行 |
+| [rsync](./backup/rsync) | rsync 文件同步 |
+| [tar-compression](./backup/tar-compression) | 归档和压缩 |
+| [snapshot](./backup/snapshot) | 文件系统快照 |
+| [cloud-backup](./backup/cloud-backup) | 云备份策略 |
+| [backup-strategy](./backup/backup-strategy) | 备份规划和策略 |
+| [disaster-recovery](./backup/disaster-recovery) | 灾难恢复规划和执行 |
 
 ### 🔒 安全
 

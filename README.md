@@ -8,7 +8,7 @@
 <h1 align="center">🖥️ Terminal Skills</h1>
 
 <p align="center">
-  <strong>A curated collection of Claude Skills for terminal, server, DevOps, and cloud operations</strong>
+  <strong>A curated collection of Claude Skills for Terminal, Server, Kubernetes，DevOps, and Cloud Computing</strong>
 </p>
 
 <p align="center">
@@ -207,12 +207,12 @@ Common issues and solutions.
 
 | Skill | Description |
 |-------|-------------|
-| [rsync](./backup-recovery/rsync) | rsync for file synchronization |
-| [tar-compression](./backup-recovery/tar-compression) | Archive and compression |
-| [snapshot](./backup-recovery/snapshot) | Filesystem snapshots |
-| [cloud-backup](./backup-recovery/cloud-backup) | Cloud backup strategies |
-| [backup-strategy](./backup-recovery/backup-strategy) | Backup planning and policies |
-| [disaster-recovery](./backup-recovery/disaster-recovery) | DR planning and execution |
+| [rsync](./backup/rsync) | rsync for file synchronization |
+| [tar-compression](./backup/tar-compression) | Archive and compression |
+| [snapshot](./backup/snapshot) | Filesystem snapshots |
+| [cloud-backup](./backup/cloud-backup) | Cloud backup strategies |
+| [backup-strategy](./backup/backup-strategy) | Backup planning and policies |
+| [disaster-recovery](./backup/disaster-recovery) | DR planning and execution |
 
 ### 🔒 Security
 
